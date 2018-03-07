@@ -255,11 +255,11 @@ Subscription.prototype.subscribe = function() {
             _this.options.requestManager.addSubscription(_this.id, payload.params[0] , _this.options.type, function(err, result) {
 
                 if (!_.isArray(result)) {
-                    result = [result]
+                    result = [result];
                 }
 
                 if (!err) {
-                    result.forEach(r => {
+                    result.forEach(function(r) {
                         var output = _this._formatOutput(r);
 
                         if (_.isFunction(_this.options.subscription.subscriptionHandler)) {
@@ -272,7 +272,7 @@ Subscription.prototype.subscribe = function() {
                         if (_.isFunction(_this.callback)) {
                             _this.callback(null, output, _this);
                         }
-                    })
+                    });
                 } else {
                     // unsubscribe, but keep listeners
                     _this.options.requestManager.removeSubscription(_this.id);
