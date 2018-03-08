@@ -153,157 +153,157 @@
 108 verbose dependencyIsSatisfied swarm-js true
 109 silly hasDependencyInstalled @ianaya89/web3-core-helpers @ianaya89/web3-eth-iban
 110 silly dependencyIsSatisfied [ '@ianaya89/web3-eth-iban',
-110 silly dependencyIsSatisfied   '1.0.0-beta.30',
+110 silly dependencyIsSatisfied   '1.0.2',
 110 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core-helpers/node_modules' ]
 111 verbose dependencyIsSatisfied @ianaya89/web3-eth-iban false
 112 silly hasDependencyInstalled @ianaya89/web3-eth @ianaya89/web3-eth-iban
 113 silly dependencyIsSatisfied [ '@ianaya89/web3-eth-iban',
-113 silly dependencyIsSatisfied   '1.0.0-beta.30',
+113 silly dependencyIsSatisfied   '1.0.2',
 113 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth/node_modules' ]
 114 verbose dependencyIsSatisfied @ianaya89/web3-eth-iban false
 115 silly hasDependencyInstalled @ianaya89/web3-core-helpers @ianaya89/web3-utils
 116 silly dependencyIsSatisfied [ '@ianaya89/web3-utils',
-116 silly dependencyIsSatisfied   '1.0.0-beta.30',
+116 silly dependencyIsSatisfied   '1.0.2',
 116 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core-helpers/node_modules' ]
 117 verbose dependencyIsSatisfied @ianaya89/web3-utils false
 118 silly hasDependencyInstalled @ianaya89/web3-core-method @ianaya89/web3-utils
 119 silly dependencyIsSatisfied [ '@ianaya89/web3-utils',
-119 silly dependencyIsSatisfied   '1.0.0-beta.30',
+119 silly dependencyIsSatisfied   '1.0.2',
 119 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core-method/node_modules' ]
 120 verbose dependencyIsSatisfied @ianaya89/web3-utils false
 121 silly hasDependencyInstalled @ianaya89/web3-core @ianaya89/web3-utils
 122 silly dependencyIsSatisfied [ '@ianaya89/web3-utils',
-122 silly dependencyIsSatisfied   '1.0.0-beta.30',
+122 silly dependencyIsSatisfied   '1.0.2',
 122 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core/node_modules' ]
 123 verbose dependencyIsSatisfied @ianaya89/web3-utils false
 124 silly hasDependencyInstalled @ianaya89/web3-eth-abi @ianaya89/web3-utils
 125 silly dependencyIsSatisfied [ '@ianaya89/web3-utils',
-125 silly dependencyIsSatisfied   '1.0.0-beta.30',
+125 silly dependencyIsSatisfied   '1.0.2',
 125 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-abi/node_modules' ]
 126 verbose dependencyIsSatisfied @ianaya89/web3-utils false
 127 silly hasDependencyInstalled @ianaya89/web3-eth-accounts @ianaya89/web3-utils
 128 silly dependencyIsSatisfied [ '@ianaya89/web3-utils',
-128 silly dependencyIsSatisfied   '1.0.0-beta.30',
+128 silly dependencyIsSatisfied   '1.0.2',
 128 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-accounts/node_modules' ]
 129 verbose dependencyIsSatisfied @ianaya89/web3-utils false
 130 silly hasDependencyInstalled @ianaya89/web3-eth-contract @ianaya89/web3-utils
 131 silly dependencyIsSatisfied [ '@ianaya89/web3-utils',
-131 silly dependencyIsSatisfied   '1.0.0-beta.30',
+131 silly dependencyIsSatisfied   '1.0.2',
 131 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-contract/node_modules' ]
 132 verbose dependencyIsSatisfied @ianaya89/web3-utils false
 133 silly hasDependencyInstalled @ianaya89/web3-eth-iban @ianaya89/web3-utils
 134 silly dependencyIsSatisfied [ '@ianaya89/web3-utils',
-134 silly dependencyIsSatisfied   '1.0.0-beta.30',
+134 silly dependencyIsSatisfied   '1.0.2',
 134 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-iban/node_modules' ]
 135 verbose dependencyIsSatisfied @ianaya89/web3-utils false
 136 silly hasDependencyInstalled @ianaya89/web3-eth-personal @ianaya89/web3-utils
 137 silly dependencyIsSatisfied [ '@ianaya89/web3-utils',
-137 silly dependencyIsSatisfied   '1.0.0-beta.30',
+137 silly dependencyIsSatisfied   '1.0.2',
 137 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-personal/node_modules' ]
 138 verbose dependencyIsSatisfied @ianaya89/web3-utils false
 139 silly hasDependencyInstalled @ianaya89/web3-eth @ianaya89/web3-utils
 140 silly dependencyIsSatisfied [ '@ianaya89/web3-utils',
-140 silly dependencyIsSatisfied   '1.0.0-beta.30',
+140 silly dependencyIsSatisfied   '1.0.2',
 140 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth/node_modules' ]
 141 verbose dependencyIsSatisfied @ianaya89/web3-utils false
 142 silly hasDependencyInstalled @ianaya89/web3-net @ianaya89/web3-utils
 143 silly dependencyIsSatisfied [ '@ianaya89/web3-utils',
-143 silly dependencyIsSatisfied   '1.0.0-beta.30',
+143 silly dependencyIsSatisfied   '1.0.2',
 143 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-net/node_modules' ]
 144 verbose dependencyIsSatisfied @ianaya89/web3-utils false
 145 silly hasDependencyInstalled @ianaya89/web3 @ianaya89/web3-utils
 146 silly dependencyIsSatisfied [ '@ianaya89/web3-utils',
-146 silly dependencyIsSatisfied   '1.0.0-beta.30',
+146 silly dependencyIsSatisfied   '1.0.2',
 146 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3/node_modules' ]
 147 verbose dependencyIsSatisfied @ianaya89/web3-utils false
 148 silly hasDependencyInstalled @ianaya89/web3-core-method @ianaya89/web3-core-helpers
 149 silly dependencyIsSatisfied [ '@ianaya89/web3-core-helpers',
-149 silly dependencyIsSatisfied   '1.0.0-beta.30',
+149 silly dependencyIsSatisfied   '1.0.2',
 149 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core-method/node_modules' ]
 150 verbose dependencyIsSatisfied @ianaya89/web3-core-helpers false
 151 silly hasDependencyInstalled @ianaya89/web3-core-requestmanager @ianaya89/web3-core-helpers
 152 silly dependencyIsSatisfied [ '@ianaya89/web3-core-helpers',
-152 silly dependencyIsSatisfied   '1.0.0-beta.30',
+152 silly dependencyIsSatisfied   '1.0.2',
 152 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core-requestmanager/node_modules' ]
 153 verbose dependencyIsSatisfied @ianaya89/web3-core-helpers false
 154 silly hasDependencyInstalled @ianaya89/web3-core-subscriptions @ianaya89/web3-core-helpers
 155 silly dependencyIsSatisfied [ '@ianaya89/web3-core-helpers',
-155 silly dependencyIsSatisfied   '1.0.0-beta.30',
+155 silly dependencyIsSatisfied   '1.0.2',
 155 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core-subscriptions/node_modules' ]
 156 verbose dependencyIsSatisfied @ianaya89/web3-core-helpers false
 157 silly hasDependencyInstalled @ianaya89/web3-core @ianaya89/web3-core-helpers
 158 silly dependencyIsSatisfied [ '@ianaya89/web3-core-helpers',
-158 silly dependencyIsSatisfied   '1.0.0-beta.30',
+158 silly dependencyIsSatisfied   '1.0.2',
 158 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core/node_modules' ]
 159 verbose dependencyIsSatisfied @ianaya89/web3-core-helpers false
 160 silly hasDependencyInstalled @ianaya89/web3-eth-abi @ianaya89/web3-core-helpers
 161 silly dependencyIsSatisfied [ '@ianaya89/web3-core-helpers',
-161 silly dependencyIsSatisfied   '1.0.0-beta.30',
+161 silly dependencyIsSatisfied   '1.0.2',
 161 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-abi/node_modules' ]
 162 verbose dependencyIsSatisfied @ianaya89/web3-core-helpers false
 163 silly hasDependencyInstalled @ianaya89/web3-eth-accounts @ianaya89/web3-core-helpers
 164 silly dependencyIsSatisfied [ '@ianaya89/web3-core-helpers',
-164 silly dependencyIsSatisfied   '1.0.0-beta.30',
+164 silly dependencyIsSatisfied   '1.0.2',
 164 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-accounts/node_modules' ]
 165 verbose dependencyIsSatisfied @ianaya89/web3-core-helpers false
 166 silly hasDependencyInstalled @ianaya89/web3-eth-contract @ianaya89/web3-core-helpers
 167 silly dependencyIsSatisfied [ '@ianaya89/web3-core-helpers',
-167 silly dependencyIsSatisfied   '1.0.0-beta.30',
+167 silly dependencyIsSatisfied   '1.0.2',
 167 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-contract/node_modules' ]
 168 verbose dependencyIsSatisfied @ianaya89/web3-core-helpers false
 169 silly hasDependencyInstalled @ianaya89/web3-eth-personal @ianaya89/web3-core-helpers
 170 silly dependencyIsSatisfied [ '@ianaya89/web3-core-helpers',
-170 silly dependencyIsSatisfied   '1.0.0-beta.30',
+170 silly dependencyIsSatisfied   '1.0.2',
 170 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-personal/node_modules' ]
 171 verbose dependencyIsSatisfied @ianaya89/web3-core-helpers false
 172 silly hasDependencyInstalled @ianaya89/web3-eth @ianaya89/web3-core-helpers
 173 silly dependencyIsSatisfied [ '@ianaya89/web3-core-helpers',
-173 silly dependencyIsSatisfied   '1.0.0-beta.30',
+173 silly dependencyIsSatisfied   '1.0.2',
 173 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth/node_modules' ]
 174 verbose dependencyIsSatisfied @ianaya89/web3-core-helpers false
 175 silly hasDependencyInstalled @ianaya89/web3-providers-http @ianaya89/web3-core-helpers
 176 silly dependencyIsSatisfied [ '@ianaya89/web3-core-helpers',
-176 silly dependencyIsSatisfied   '1.0.0-beta.30',
+176 silly dependencyIsSatisfied   '1.0.2',
 176 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-providers-http/node_modules' ]
 177 verbose dependencyIsSatisfied @ianaya89/web3-core-helpers false
 178 silly hasDependencyInstalled @ianaya89/web3-providers-ipc @ianaya89/web3-core-helpers
 179 silly dependencyIsSatisfied [ '@ianaya89/web3-core-helpers',
-179 silly dependencyIsSatisfied   '1.0.0-beta.30',
+179 silly dependencyIsSatisfied   '1.0.2',
 179 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-providers-ipc/node_modules' ]
 180 verbose dependencyIsSatisfied @ianaya89/web3-core-helpers false
 181 silly hasDependencyInstalled @ianaya89/web3-providers-ws @ianaya89/web3-core-helpers
 182 silly dependencyIsSatisfied [ '@ianaya89/web3-core-helpers',
-182 silly dependencyIsSatisfied   '1.0.0-beta.30',
+182 silly dependencyIsSatisfied   '1.0.2',
 182 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-providers-ws/node_modules' ]
 183 verbose dependencyIsSatisfied @ianaya89/web3-core-helpers false
 184 silly hasDependencyInstalled @ianaya89/web3-core-method @ianaya89/web3-core-promievent
 185 silly dependencyIsSatisfied [ '@ianaya89/web3-core-promievent',
-185 silly dependencyIsSatisfied   '1.0.0-beta.30',
+185 silly dependencyIsSatisfied   '1.0.2',
 185 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core-method/node_modules' ]
 186 verbose dependencyIsSatisfied @ianaya89/web3-core-promievent false
 187 silly hasDependencyInstalled @ianaya89/web3-eth-contract @ianaya89/web3-core-promievent
 188 silly dependencyIsSatisfied [ '@ianaya89/web3-core-promievent',
-188 silly dependencyIsSatisfied   '1.0.0-beta.30',
+188 silly dependencyIsSatisfied   '1.0.2',
 188 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-contract/node_modules' ]
 189 verbose dependencyIsSatisfied @ianaya89/web3-core-promievent false
 190 silly hasDependencyInstalled @ianaya89/web3-core-method @ianaya89/web3-core-subscriptions
 191 silly dependencyIsSatisfied [ '@ianaya89/web3-core-subscriptions',
-191 silly dependencyIsSatisfied   '1.0.0-beta.30',
+191 silly dependencyIsSatisfied   '1.0.2',
 191 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core-method/node_modules' ]
 192 verbose dependencyIsSatisfied @ianaya89/web3-core-subscriptions false
 193 silly hasDependencyInstalled @ianaya89/web3-eth-contract @ianaya89/web3-core-subscriptions
 194 silly dependencyIsSatisfied [ '@ianaya89/web3-core-subscriptions',
-194 silly dependencyIsSatisfied   '1.0.0-beta.30',
+194 silly dependencyIsSatisfied   '1.0.2',
 194 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-contract/node_modules' ]
 195 verbose dependencyIsSatisfied @ianaya89/web3-core-subscriptions false
 196 silly hasDependencyInstalled @ianaya89/web3-eth @ianaya89/web3-core-subscriptions
 197 silly dependencyIsSatisfied [ '@ianaya89/web3-core-subscriptions',
-197 silly dependencyIsSatisfied   '1.0.0-beta.30',
+197 silly dependencyIsSatisfied   '1.0.2',
 197 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth/node_modules' ]
 198 verbose dependencyIsSatisfied @ianaya89/web3-core-subscriptions false
 199 silly hasDependencyInstalled @ianaya89/web3-shh @ianaya89/web3-core-subscriptions
 200 silly dependencyIsSatisfied [ '@ianaya89/web3-core-subscriptions',
-200 silly dependencyIsSatisfied   '1.0.0-beta.30',
+200 silly dependencyIsSatisfied   '1.0.2',
 200 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-shh/node_modules' ]
 201 verbose dependencyIsSatisfied @ianaya89/web3-core-subscriptions false
 202 silly hasDependencyInstalled @ianaya89/web3-core-promievent eventemitter3
@@ -318,52 +318,52 @@
 207 verbose dependencyIsSatisfied eventemitter3 true
 208 silly hasDependencyInstalled @ianaya89/web3-core-requestmanager @ianaya89/web3-providers-http
 209 silly dependencyIsSatisfied [ '@ianaya89/web3-providers-http',
-209 silly dependencyIsSatisfied   '1.0.0-beta.30',
+209 silly dependencyIsSatisfied   '1.0.2',
 209 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core-requestmanager/node_modules' ]
 210 verbose dependencyIsSatisfied @ianaya89/web3-providers-http false
 211 silly hasDependencyInstalled @ianaya89/web3-core-requestmanager @ianaya89/web3-providers-ipc
 212 silly dependencyIsSatisfied [ '@ianaya89/web3-providers-ipc',
-212 silly dependencyIsSatisfied   '1.0.0-beta.30',
+212 silly dependencyIsSatisfied   '1.0.2',
 212 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core-requestmanager/node_modules' ]
 213 verbose dependencyIsSatisfied @ianaya89/web3-providers-ipc false
 214 silly hasDependencyInstalled @ianaya89/web3-core @ianaya89/web3-core-method
 215 silly dependencyIsSatisfied [ '@ianaya89/web3-core-method',
-215 silly dependencyIsSatisfied   '1.0.0-beta.30',
+215 silly dependencyIsSatisfied   '1.0.2',
 215 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core/node_modules' ]
 216 verbose dependencyIsSatisfied @ianaya89/web3-core-method false
 217 silly hasDependencyInstalled @ianaya89/web3-eth-accounts @ianaya89/web3-core-method
 218 silly dependencyIsSatisfied [ '@ianaya89/web3-core-method',
-218 silly dependencyIsSatisfied   '1.0.0-beta.30',
+218 silly dependencyIsSatisfied   '1.0.2',
 218 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-accounts/node_modules' ]
 219 verbose dependencyIsSatisfied @ianaya89/web3-core-method false
 220 silly hasDependencyInstalled @ianaya89/web3-eth-contract @ianaya89/web3-core-method
 221 silly dependencyIsSatisfied [ '@ianaya89/web3-core-method',
-221 silly dependencyIsSatisfied   '1.0.0-beta.30',
+221 silly dependencyIsSatisfied   '1.0.2',
 221 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-contract/node_modules' ]
 222 verbose dependencyIsSatisfied @ianaya89/web3-core-method false
 223 silly hasDependencyInstalled @ianaya89/web3-eth-personal @ianaya89/web3-core-method
 224 silly dependencyIsSatisfied [ '@ianaya89/web3-core-method',
-224 silly dependencyIsSatisfied   '1.0.0-beta.30',
+224 silly dependencyIsSatisfied   '1.0.2',
 224 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-personal/node_modules' ]
 225 verbose dependencyIsSatisfied @ianaya89/web3-core-method false
 226 silly hasDependencyInstalled @ianaya89/web3-eth @ianaya89/web3-core-method
 227 silly dependencyIsSatisfied [ '@ianaya89/web3-core-method',
-227 silly dependencyIsSatisfied   '1.0.0-beta.30',
+227 silly dependencyIsSatisfied   '1.0.2',
 227 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth/node_modules' ]
 228 verbose dependencyIsSatisfied @ianaya89/web3-core-method false
 229 silly hasDependencyInstalled @ianaya89/web3-net @ianaya89/web3-core-method
 230 silly dependencyIsSatisfied [ '@ianaya89/web3-core-method',
-230 silly dependencyIsSatisfied   '1.0.0-beta.30',
+230 silly dependencyIsSatisfied   '1.0.2',
 230 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-net/node_modules' ]
 231 verbose dependencyIsSatisfied @ianaya89/web3-core-method false
 232 silly hasDependencyInstalled @ianaya89/web3-shh @ianaya89/web3-core-method
 233 silly dependencyIsSatisfied [ '@ianaya89/web3-core-method',
-233 silly dependencyIsSatisfied   '1.0.0-beta.30',
+233 silly dependencyIsSatisfied   '1.0.2',
 233 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-shh/node_modules' ]
 234 verbose dependencyIsSatisfied @ianaya89/web3-core-method false
 235 silly hasDependencyInstalled @ianaya89/web3-core @ianaya89/web3-core-requestmanager
 236 silly dependencyIsSatisfied [ '@ianaya89/web3-core-requestmanager',
-236 silly dependencyIsSatisfied   '1.0.0-beta.30',
+236 silly dependencyIsSatisfied   '1.0.2',
 236 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core/node_modules' ]
 237 verbose dependencyIsSatisfied @ianaya89/web3-core-requestmanager false
 238 silly hasDependencyInstalled @ianaya89/web3-eth-accounts crypto-browserify
@@ -393,87 +393,87 @@
 252 verbose dependencyIsSatisfied uuid true
 253 silly hasDependencyInstalled @ianaya89/web3-eth-accounts @ianaya89/web3-core
 254 silly dependencyIsSatisfied [ '@ianaya89/web3-core',
-254 silly dependencyIsSatisfied   '1.0.0-beta.30',
+254 silly dependencyIsSatisfied   '1.0.2',
 254 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-accounts/node_modules' ]
 255 verbose dependencyIsSatisfied @ianaya89/web3-core false
 256 silly hasDependencyInstalled @ianaya89/web3-eth-contract @ianaya89/web3-core
 257 silly dependencyIsSatisfied [ '@ianaya89/web3-core',
-257 silly dependencyIsSatisfied   '1.0.0-beta.30',
+257 silly dependencyIsSatisfied   '1.0.2',
 257 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-contract/node_modules' ]
 258 verbose dependencyIsSatisfied @ianaya89/web3-core false
 259 silly hasDependencyInstalled @ianaya89/web3-eth-personal @ianaya89/web3-core
 260 silly dependencyIsSatisfied [ '@ianaya89/web3-core',
-260 silly dependencyIsSatisfied   '1.0.0-beta.30',
+260 silly dependencyIsSatisfied   '1.0.2',
 260 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-personal/node_modules' ]
 261 verbose dependencyIsSatisfied @ianaya89/web3-core false
 262 silly hasDependencyInstalled @ianaya89/web3-eth @ianaya89/web3-core
 263 silly dependencyIsSatisfied [ '@ianaya89/web3-core',
-263 silly dependencyIsSatisfied   '1.0.0-beta.30',
+263 silly dependencyIsSatisfied   '1.0.2',
 263 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth/node_modules' ]
 264 verbose dependencyIsSatisfied @ianaya89/web3-core false
 265 silly hasDependencyInstalled @ianaya89/web3-net @ianaya89/web3-core
 266 silly dependencyIsSatisfied [ '@ianaya89/web3-core',
-266 silly dependencyIsSatisfied   '1.0.0-beta.30',
+266 silly dependencyIsSatisfied   '1.0.2',
 266 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-net/node_modules' ]
 267 verbose dependencyIsSatisfied @ianaya89/web3-core false
 268 silly hasDependencyInstalled @ianaya89/web3-shh @ianaya89/web3-core
 269 silly dependencyIsSatisfied [ '@ianaya89/web3-core',
-269 silly dependencyIsSatisfied   '1.0.0-beta.30',
+269 silly dependencyIsSatisfied   '1.0.2',
 269 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-shh/node_modules' ]
 270 verbose dependencyIsSatisfied @ianaya89/web3-core false
 271 silly hasDependencyInstalled @ianaya89/web3 @ianaya89/web3-core
 272 silly dependencyIsSatisfied [ '@ianaya89/web3-core',
-272 silly dependencyIsSatisfied   '1.0.0-beta.30',
+272 silly dependencyIsSatisfied   '1.0.2',
 272 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3/node_modules' ]
 273 verbose dependencyIsSatisfied @ianaya89/web3-core false
 274 silly hasDependencyInstalled @ianaya89/web3-eth-contract @ianaya89/web3-eth-abi
 275 silly dependencyIsSatisfied [ '@ianaya89/web3-eth-abi',
-275 silly dependencyIsSatisfied   '1.0.0-beta.30',
+275 silly dependencyIsSatisfied   '1.0.2',
 275 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-contract/node_modules' ]
 276 verbose dependencyIsSatisfied @ianaya89/web3-eth-abi false
 277 silly hasDependencyInstalled @ianaya89/web3-eth @ianaya89/web3-eth-abi
 278 silly dependencyIsSatisfied [ '@ianaya89/web3-eth-abi',
-278 silly dependencyIsSatisfied   '1.0.0-beta.30',
+278 silly dependencyIsSatisfied   '1.0.2',
 278 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth/node_modules' ]
 279 verbose dependencyIsSatisfied @ianaya89/web3-eth-abi false
 280 silly hasDependencyInstalled @ianaya89/web3-eth-personal @ianaya89/web3-net
 281 silly dependencyIsSatisfied [ '@ianaya89/web3-net',
-281 silly dependencyIsSatisfied   '1.0.0-beta.30',
+281 silly dependencyIsSatisfied   '1.0.2',
 281 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-personal/node_modules' ]
 282 verbose dependencyIsSatisfied @ianaya89/web3-net false
 283 silly hasDependencyInstalled @ianaya89/web3-eth @ianaya89/web3-net
 284 silly dependencyIsSatisfied [ '@ianaya89/web3-net',
-284 silly dependencyIsSatisfied   '1.0.0-beta.30',
+284 silly dependencyIsSatisfied   '1.0.2',
 284 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth/node_modules' ]
 285 verbose dependencyIsSatisfied @ianaya89/web3-net false
 286 silly hasDependencyInstalled @ianaya89/web3-shh @ianaya89/web3-net
 287 silly dependencyIsSatisfied [ '@ianaya89/web3-net',
-287 silly dependencyIsSatisfied   '1.0.0-beta.30',
+287 silly dependencyIsSatisfied   '1.0.2',
 287 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-shh/node_modules' ]
 288 verbose dependencyIsSatisfied @ianaya89/web3-net false
 289 silly hasDependencyInstalled @ianaya89/web3 @ianaya89/web3-net
 290 silly dependencyIsSatisfied [ '@ianaya89/web3-net',
-290 silly dependencyIsSatisfied   '1.0.0-beta.30',
+290 silly dependencyIsSatisfied   '1.0.2',
 290 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3/node_modules' ]
 291 verbose dependencyIsSatisfied @ianaya89/web3-net false
 292 silly hasDependencyInstalled @ianaya89/web3-eth @ianaya89/web3-eth-accounts
 293 silly dependencyIsSatisfied [ '@ianaya89/web3-eth-accounts',
-293 silly dependencyIsSatisfied   '1.0.0-beta.30',
+293 silly dependencyIsSatisfied   '1.0.2',
 293 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth/node_modules' ]
 294 verbose dependencyIsSatisfied @ianaya89/web3-eth-accounts false
 295 silly hasDependencyInstalled @ianaya89/web3-eth @ianaya89/web3-eth-contract
 296 silly dependencyIsSatisfied [ '@ianaya89/web3-eth-contract',
-296 silly dependencyIsSatisfied   '1.0.0-beta.30',
+296 silly dependencyIsSatisfied   '1.0.2',
 296 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth/node_modules' ]
 297 verbose dependencyIsSatisfied @ianaya89/web3-eth-contract false
 298 silly hasDependencyInstalled @ianaya89/web3-eth @ianaya89/web3-eth-personal
 299 silly dependencyIsSatisfied [ '@ianaya89/web3-eth-personal',
-299 silly dependencyIsSatisfied   '1.0.0-beta.30',
+299 silly dependencyIsSatisfied   '1.0.2',
 299 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth/node_modules' ]
 300 verbose dependencyIsSatisfied @ianaya89/web3-eth-personal false
 301 silly hasDependencyInstalled @ianaya89/web3 @ianaya89/web3-eth-personal
 302 silly dependencyIsSatisfied [ '@ianaya89/web3-eth-personal',
-302 silly dependencyIsSatisfied   '1.0.0-beta.30',
+302 silly dependencyIsSatisfied   '1.0.2',
 302 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3/node_modules' ]
 303 verbose dependencyIsSatisfied @ianaya89/web3-eth-personal false
 304 silly hasDependencyInstalled @ianaya89/web3-providers-http xhr2
@@ -513,17 +513,17 @@
 324 verbose dependencyIsSatisfied utf8 true
 325 silly hasDependencyInstalled @ianaya89/web3 @ianaya89/web3-bzz
 326 silly dependencyIsSatisfied [ '@ianaya89/web3-bzz',
-326 silly dependencyIsSatisfied   '1.0.0-beta.30',
+326 silly dependencyIsSatisfied   '1.0.2',
 326 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3/node_modules' ]
 327 verbose dependencyIsSatisfied @ianaya89/web3-bzz false
 328 silly hasDependencyInstalled @ianaya89/web3 @ianaya89/web3-eth
 329 silly dependencyIsSatisfied [ '@ianaya89/web3-eth',
-329 silly dependencyIsSatisfied   '1.0.0-beta.30',
+329 silly dependencyIsSatisfied   '1.0.2',
 329 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3/node_modules' ]
 330 verbose dependencyIsSatisfied @ianaya89/web3-eth false
 331 silly hasDependencyInstalled @ianaya89/web3 @ianaya89/web3-shh
 332 silly dependencyIsSatisfied [ '@ianaya89/web3-shh',
-332 silly dependencyIsSatisfied   '1.0.0-beta.30',
+332 silly dependencyIsSatisfied   '1.0.2',
 332 silly dependencyIsSatisfied   '/Users/ianaya89/Development/bloq/web3.js/packages/web3/node_modules' ]
 333 verbose dependencyIsSatisfied @ianaya89/web3-shh false
 334 silly root dependencies []
@@ -548,15 +548,15 @@
 335 silly leaf dependencies       "isSatisfied": true
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-method@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-method@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
@@ -576,7 +576,7 @@
 335 silly leaf dependencies       "isSatisfied": true
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     }
 335 silly leaf dependencies   ],
@@ -586,7 +586,7 @@
 335 silly leaf dependencies       "isSatisfied": true
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     }
 335 silly leaf dependencies   ],
@@ -600,11 +600,11 @@
 335 silly leaf dependencies       "isSatisfied": true
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     }
 335 silly leaf dependencies   ],
@@ -658,11 +658,11 @@
 335 silly leaf dependencies       "isSatisfied": true
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth-iban@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth-iban@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     }
 335 silly leaf dependencies   ],
@@ -672,19 +672,19 @@
 335 silly leaf dependencies       "isSatisfied": true
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-promievent@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-promievent@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-subscriptions@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-subscriptions@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     }
 335 silly leaf dependencies   ],
@@ -694,15 +694,15 @@
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-providers-http@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-providers-http@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-providers-ipc@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-providers-ipc@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     }
 335 silly leaf dependencies   ],
@@ -712,7 +712,7 @@
 335 silly leaf dependencies       "isSatisfied": true
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
@@ -726,31 +726,31 @@
 335 silly leaf dependencies       "isSatisfied": true
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-promievent@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-promievent@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-subscriptions@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-subscriptions@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-method@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-method@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth-abi@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth-abi@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     }
 335 silly leaf dependencies   ],
@@ -760,47 +760,47 @@
 335 silly leaf dependencies       "isSatisfied": true
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth-iban@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth-iban@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-subscriptions@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-subscriptions@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-method@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-method@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth-abi@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth-abi@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-net@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-net@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth-accounts@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth-accounts@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth-contract@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth-contract@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth-personal@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth-personal@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     }
 335 silly leaf dependencies   ],
@@ -810,7 +810,7 @@
 335 silly leaf dependencies       "isSatisfied": true
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
@@ -824,7 +824,7 @@
 335 silly leaf dependencies       "isSatisfied": true
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
@@ -834,91 +834,91 @@
 335 silly leaf dependencies   ],
 335 silly leaf dependencies   "@ianaya89/web3-core": [
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-method@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-method@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-requestmanager@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-requestmanager@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     }
 335 silly leaf dependencies   ],
 335 silly leaf dependencies   "@ianaya89/web3-eth-personal": [
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-method@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-method@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-net@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-net@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     }
 335 silly leaf dependencies   ],
 335 silly leaf dependencies   "@ianaya89/web3-net": [
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-method@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-method@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     }
 335 silly leaf dependencies   ],
 335 silly leaf dependencies   "@ianaya89/web3": [
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-utils@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-net@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-net@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth-personal@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth-personal@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-bzz@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-bzz@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-eth@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-shh@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-shh@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     }
 335 silly leaf dependencies   ],
 335 silly leaf dependencies   "@ianaya89/web3-providers-http": [
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-helpers@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
@@ -928,19 +928,19 @@
 335 silly leaf dependencies   ],
 335 silly leaf dependencies   "@ianaya89/web3-shh": [
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-subscriptions@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-subscriptions@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-method@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core-method@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-core@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-core@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     },
 335 silly leaf dependencies     {
-335 silly leaf dependencies       "dependency": "@ianaya89/web3-net@1.0.0-beta.30",
+335 silly leaf dependencies       "dependency": "@ianaya89/web3-net@1.0.2",
 335 silly leaf dependencies       "isSatisfied": false
 335 silly leaf dependencies     }
 335 silly leaf dependencies   ]
@@ -949,76 +949,74 @@
 337 verbose actions 17 actions, concurrency 4
 338 silly installInDir web3-eth-accounts [ 'bluebird@3.3.1',
 338 silly installInDir   'underscore@1.8.3',
-338 silly installInDir   '@ianaya89/web3-utils@1.0.0-beta.30',
-338 silly installInDir   '@ianaya89/web3-core-helpers@1.0.0-beta.30',
-338 silly installInDir   '@ianaya89/web3-core-method@1.0.0-beta.30',
+338 silly installInDir   '@ianaya89/web3-utils@1.0.2',
+338 silly installInDir   '@ianaya89/web3-core-helpers@1.0.2',
+338 silly installInDir   '@ianaya89/web3-core-method@1.0.2',
 338 silly installInDir   'crypto-browserify@^3.12.0',
 338 silly installInDir   'eth-lib@0.2.7',
 338 silly installInDir   'scrypt.js@0.2.0',
 338 silly installInDir   'uuid@2.0.1',
-338 silly installInDir   '@ianaya89/web3-core@1.0.0-beta.30' ]
+338 silly installInDir   '@ianaya89/web3-core@1.0.2' ]
 339 silly installInDir backup /Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-accounts/package.json
 340 silly rename [ '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-accounts/package.json',
 340 silly rename   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-accounts/package.json.lerna_backup' ]
-341 silly installInDir web3-eth-iban [ 'bn.js@^4.11.6', '@ianaya89/web3-utils@1.0.0-beta.30' ]
+341 silly installInDir web3-eth-iban [ 'bn.js@^4.11.6', '@ianaya89/web3-utils@1.0.2' ]
 342 silly installInDir backup /Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-iban/package.json
 343 silly rename [ '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-iban/package.json',
 343 silly rename   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-iban/package.json.lerna_backup' ]
 344 silly installInDir web3-eth-abi [ 'bn.js@4.11.6',
 344 silly installInDir   'underscore@1.8.3',
-344 silly installInDir   '@ianaya89/web3-utils@1.0.0-beta.30',
-344 silly installInDir   '@ianaya89/web3-core-helpers@1.0.0-beta.30' ]
+344 silly installInDir   '@ianaya89/web3-utils@1.0.2',
+344 silly installInDir   '@ianaya89/web3-core-helpers@1.0.2' ]
 345 silly installInDir backup /Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-abi/package.json
 346 silly rename [ '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-abi/package.json',
 346 silly rename   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-abi/package.json.lerna_backup' ]
 347 silly installInDir web3-core-helpers [ 'underscore@1.8.3',
-347 silly installInDir   '@ianaya89/web3-eth-iban@1.0.0-beta.30',
-347 silly installInDir   '@ianaya89/web3-utils@1.0.0-beta.30' ]
+347 silly installInDir   '@ianaya89/web3-eth-iban@1.0.2',
+347 silly installInDir   '@ianaya89/web3-utils@1.0.2' ]
 348 silly installInDir backup /Users/ianaya89/Development/bloq/web3.js/packages/web3-core-helpers/package.json
 349 silly rename [ '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core-helpers/package.json',
 349 silly rename   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core-helpers/package.json.lerna_backup' ]
 350 silly installInDir writing tempJson { dependencies:
 350 silly installInDir    { bluebird: '3.3.1',
 350 silly installInDir      underscore: '1.8.3',
-350 silly installInDir      '@ianaya89/web3-utils': '1.0.0-beta.30',
-350 silly installInDir      '@ianaya89/web3-core-helpers': '1.0.0-beta.30',
-350 silly installInDir      '@ianaya89/web3-core-method': '1.0.0-beta.30',
+350 silly installInDir      '@ianaya89/web3-utils': '1.0.2',
+350 silly installInDir      '@ianaya89/web3-core-helpers': '1.0.2',
+350 silly installInDir      '@ianaya89/web3-core-method': '1.0.2',
 350 silly installInDir      'crypto-browserify': '^3.12.0',
 350 silly installInDir      'eth-lib': '0.2.7',
 350 silly installInDir      'scrypt.js': '0.2.0',
 350 silly installInDir      uuid: '2.0.1',
-350 silly installInDir      '@ianaya89/web3-core': '1.0.0-beta.30' } }
-351 silly installInDir writing tempJson { dependencies: { 'bn.js': '^4.11.6', '@ianaya89/web3-utils': '1.0.0-beta.30' } }
+350 silly installInDir      '@ianaya89/web3-core': '1.0.2' } }
+351 silly installInDir writing tempJson { dependencies: { 'bn.js': '^4.11.6', '@ianaya89/web3-utils': '1.0.2' } }
 352 silly installInDir writing tempJson { dependencies:
 352 silly installInDir    { 'bn.js': '4.11.6',
 352 silly installInDir      underscore: '1.8.3',
-352 silly installInDir      '@ianaya89/web3-utils': '1.0.0-beta.30',
-352 silly installInDir      '@ianaya89/web3-core-helpers': '1.0.0-beta.30' } }
+352 silly installInDir      '@ianaya89/web3-utils': '1.0.2',
+352 silly installInDir      '@ianaya89/web3-core-helpers': '1.0.2' } }
 353 silly installInDir writing tempJson { dependencies:
 353 silly installInDir    { underscore: '1.8.3',
-353 silly installInDir      '@ianaya89/web3-eth-iban': '1.0.0-beta.30',
-353 silly installInDir      '@ianaya89/web3-utils': '1.0.0-beta.30' } }
-354 silly getExecOpts { cwd: '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-accounts' }
+353 silly installInDir      '@ianaya89/web3-eth-iban': '1.0.2',
+353 silly installInDir      '@ianaya89/web3-utils': '1.0.2' } }
+354 silly getExecOpts { cwd: '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-iban' }
 355 silly installInDir [ 'npm', [ 'install' ] ]
-356 silly getExecOpts { cwd: '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-iban' }
+356 silly getExecOpts { cwd: '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-accounts' }
 357 silly installInDir [ 'npm', [ 'install' ] ]
-358 silly getExecOpts { cwd: '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core-helpers' }
+358 silly getExecOpts { cwd: '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-abi' }
 359 silly installInDir [ 'npm', [ 'install' ] ]
-360 silly getExecOpts { cwd: '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-abi' }
+360 silly getExecOpts { cwd: '/Users/ianaya89/Development/bloq/web3.js/packages/web3-core-helpers' }
 361 silly installInDir [ 'npm', [ 'install' ] ]
-362 silly installInDir cleanup /Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-iban/package.json
-363 silly renameSync [ '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-iban/package.json.lerna_backup',
-363 silly renameSync   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-iban/package.json' ]
-364 verbose installed leaf @ianaya89/web3-eth-iban
+362 silly installInDir cleanup /Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-abi/package.json
+363 silly renameSync [ '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-abi/package.json.lerna_backup',
+363 silly renameSync   '/Users/ianaya89/Development/bloq/web3.js/packages/web3-eth-abi/package.json' ]
+364 verbose installed leaf @ianaya89/web3-eth-abi
 365 error execute callback with error
 366 error Error: Command failed: npm install
-366 error npm ERR! code ETARGET
-366 error npm ERR! notarget No matching version found for @ianaya89/web3-utils@1.0.0-beta.30
-366 error npm ERR! notarget In most cases you or one of your dependencies are requesting
-366 error npm ERR! notarget a package version that doesn't exist.
+366 error npm ERR! code E404
+366 error npm ERR! 404 Not Found: @ianaya89/web3utils@1.0.0-beta.30
 366 error
 366 error npm ERR! A complete log of this run can be found in:
-366 error npm ERR!     /Users/ianaya89/.npm/_logs/2018-03-08T18_36_36_001Z-debug.log
+366 error npm ERR!     /Users/ianaya89/.npm/_logs/2018-03-08T18_37_47_185Z-debug.log
 366 error
 366 error     at Promise.all.then.arr (/Users/ianaya89/Development/bloq/web3.js/node_modules/execa/index.js:236:11)
 366 error     at <anonymous>
