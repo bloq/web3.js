@@ -43,12 +43,12 @@
     }
   ],
   "dependencies": {
-    "@ianaya89/web3-bzz": "1.0.0-beta.30",
-    "@ianaya89/web3-core": "1.0.0-beta.30",
-    "@ianaya89/web3-eth": "1.0.0-beta.30",
-    "@ianaya89/web3-eth-personal": "1.0.0-beta.30",
-    "@ianaya89/web3-net": "1.0.0-beta.30",
-    "@ianaya89/web3-shh": "1.0.0-beta.30",
-    "@ianaya89/web3-utils": "1.0.0-beta.30"
+    "@ianaya89/web3-bzz": "1.0.2",
+    "@ianaya89/web3-core": "1.0.2",
+    "@ianaya89/web3-eth": "1.0.2",
+    "@ianaya89/web3-eth-personal": "1.0.2",
+    "@ianaya89/web3-net": "1.0.2",
+    "@ianaya89/web3-shh": "1.0.2",
+    "@ianaya89/web3-utils": "1.0.2"
   }
 }

@@ -8,9 +8,9 @@
     "main": "src/index.js",
     "dependencies": {
         "underscore": "1.8.3",
-        "@ianaya89/web3-core-helpers": "1.0.0-beta.30",
-        "@ianaya89/web3-providers-http": "1.0.0-beta.30",
-        "@ianaya89/web3-providers-ipc": "1.0.0-beta.30",
+        "@ianaya89/web3-core-helpers": "1.0.2",
+        "@ianaya89/web3-providers-http": "1.0.2",
+        "@ianaya89/web3-providers-ipc": "1.0.2",
         "@ianaya89/web3-providers-ws": "1.0.0"
     }
 }
