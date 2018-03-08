@@ -13,3 +13,4 @@ bower_components
 .idea/
 .npm/
 .vscode/
+lerna-debug.log
