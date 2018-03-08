@@ -23,8 +23,8 @@
 "use strict";
 
 var _ = require("underscore");
-var core = require('web3-core');
-var Method = require('web3-core-method');
+var core = require('../../web3-core');
+var Method = require('../../web3-core-method');
 var Promise = require('bluebird');
 var Account = require("eth-lib/lib/account");
 var Hash = require("eth-lib/lib/hash");
@@ -34,8 +34,8 @@ var Bytes = require("eth-lib/lib/bytes");
 var cryp = (typeof global === 'undefined') ? require('crypto-browserify') : require('crypto');
 var scryptsy = require('scrypt.js');
 var uuid = require('uuid');
-var utils = require('web3-utils');
-var helpers = require('web3-core-helpers');
+var utils = require('../../web3-utils');
+var helpers = require('../../web3-core-helpers');
 
 var isNot = function(value) {
     return (_.isUndefined(value) || _.isNull(value));

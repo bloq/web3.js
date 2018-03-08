@@ -22,7 +22,7 @@
  * @date 2015
  */
 
-var errors = require('web3-core-helpers').errors;
+var errors = require('../../web3-core-helpers').errors;
 var XHR2 = require('xhr2'); // jshint ignore: line
 
 /**

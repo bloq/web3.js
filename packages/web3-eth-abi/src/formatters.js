@@ -22,7 +22,7 @@
  */
 
 var _ = require('underscore');
-var utils = require('web3-utils');
+var utils = require('../../web3-utils');
 var BN = require('bn.js');
 var SolidityParam = require('./param');
 
