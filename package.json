@@ -1,7 +1,7 @@
 {
   "name": "@ianaya89/web3",
   "namespace": "ethereum",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "Ethereum JavaScript API wrapper repository",
   "license": "LGPL-3.0",
   "main": "./packages/web3/src/index.js",
