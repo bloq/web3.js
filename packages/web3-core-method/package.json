@@ -7,10 +7,10 @@
     "license": "LGPL-3.0",
     "main": "src/index.js",
     "dependencies": {
-        "@ianaya89/web3-core-helpers": "1.0.2",
-        "@ianaya89/web3-core-promievent": "1.0.2",
-        "@ianaya89/web3-core-subscriptions": "1.0.2",
-        "@ianaya89/web3-utils": "1.0.2",
+        "@ianaya89/web3-core-helpers": "1.0.0",
+        "@ianaya89/web3-core-promievent": "1.0.0",
+        "@ianaya89/web3-core-subscriptions": "1.0.0",
+        "@ianaya89/web3-utils": "1.0.0",
         "underscore": "1.8.3"
     }
 }
